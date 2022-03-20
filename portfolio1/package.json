@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ItsDenali.github.io/DIG4639C-Portfolio-1",
+  "homepage": "https://itsdenali.github.io/DIG4639C-Portfolio-1/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",

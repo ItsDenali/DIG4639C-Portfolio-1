@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 200px;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #363636;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+a {
+  color: #ffca06;
+  text-decoration: none;
+}
+
+p {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto; 
+  align-items: center;
+  text-align: left;
+  justify-content: center;
+}
+
+.contentHeader  {
+  font-size: large;
+}
+
+.disclaimerContent  {
+  padding: 10px;
+  color: #f3f3f3;
+  background-color: #363636;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: larger;
+}
+
+.pageContent  {
+  padding: 10px;
+  background-color: #ffca06;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: larger;
+}
+
+.border {
+  border: 5px solid #ffca06;
+}
+
+.Photo  {
+  width: 1000px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.Photo2  {
+  width: 700px;
+  align-items: right;
+  text-align: center;
+  justify-content: center;
+}
+
+.SecondBox  {
+  padding: 10px;
+  background-color: #f3f3f3;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: larger;
+}
